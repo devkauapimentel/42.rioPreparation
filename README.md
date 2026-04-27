@@ -169,31 +169,3 @@ Prepare users to enter the 42 Piscine with:
 ## 📜 License
 
 MIT License
-
----
-
-# 📌 Documentation Style Notes
-
-## Emojis in Professional Documentation
-
-Emojis are acceptable when used with moderation and purpose.
-
-### When to use:
-
-* Section headers (improves scanning)
-* Visual grouping of concepts
-* Developer-focused tools and open-source projects
-
-### When to avoid:
-
-* Formal enterprise documentation
-* API references
-* Security/legal sections
-
-### Recommended approach (used here):
-
-* Minimal and consistent usage
-* One emoji per section max
-* Never inside technical explanations
-
-This keeps the documentation modern, readable, and still professional.
